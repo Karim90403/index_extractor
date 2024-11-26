@@ -1,0 +1,16 @@
+services.discovery_method
+services.extended_service_name
+services.ntp.get_time_header.leap_indicator
+services.ntp.get_time_header.mode
+services.ntp.get_time_header.poll
+services.ntp.get_time_header.precision
+services.ntp.get_time_header.reference_id
+services.ntp.get_time_header.stratum
+services.ntp.get_time_header.version
+services.observed_at
+services.perspective_id
+services.port
+services.service_name
+services.source_ip
+services.transport_protocol
+services.truncated

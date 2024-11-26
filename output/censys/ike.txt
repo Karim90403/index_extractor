@@ -1,0 +1,11 @@
+services.extended_service_name
+services.ike.v1.accepted_proposal
+services.ike.v1.supported
+services.ike.v1.vendor_ids
+services.observed_at
+services.perspective_id
+services.port
+services.service_name
+services.source_ip
+services.transport_protocol
+services.truncated
